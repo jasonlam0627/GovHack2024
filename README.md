@@ -39,3 +39,7 @@ beam - interact with google map and different cities
 10.
 https://insiderguides.com.au/cycling-and-the-law/
 cycling rules
+
+11.
+https://theconversation.com/what-australia-can-learn-from-bicycle-friendly-cities-overseas-144283
+bike friendly society
